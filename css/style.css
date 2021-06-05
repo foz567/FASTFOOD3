@@ -1,0 +1,17 @@
+body {
+    background-color: teal;
+}
+
+#ViewOrdersTable{
+    
+    background-color:purple;
+    color: red;
+    text-align: right;
+    width:200px;
+    font-weight: lighter;
+    
+}
+
+.OrderNumber{
+    color: yellow;
+}
